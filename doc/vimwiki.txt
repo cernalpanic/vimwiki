@@ -985,7 +985,7 @@ Reference style links must always include two consecutive pairs of
 
 
 NOTE: (in Vimwiki's current implementation) Reference-style links are a hybrid
-of Vimwiki's default "Wikilink" and the tradition reference-style link.
+of Vimwiki's default "Wikilink" and the traditional reference-style link.
 
 If the Id is defined elsewhere in the source, as per the Markdown standard: >
   [Id]: URL
